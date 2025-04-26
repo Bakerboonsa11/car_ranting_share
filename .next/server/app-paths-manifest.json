@@ -1,6 +1,11 @@
 {
   "/api/user/[id]/route": "app/api/user/[id]/route.js",
+  "/api/kits/route": "app/api/kits/route.js",
+  "/api/product/route": "app/api/product/route.js",
+  "/api/kits/[id]/route": "app/api/kits/[id]/route.js",
+  "/_not-found/page": "app/_not-found/page.js",
   "/page": "app/page.js",
+  "/profile/page": "app/profile/page.js",
   "/shop/page": "app/shop/page.js",
-  "/signin/page": "app/signin/page.js"
+  "/shop/kits/[id]/page": "app/shop/kits/[id]/page.js"
 }
